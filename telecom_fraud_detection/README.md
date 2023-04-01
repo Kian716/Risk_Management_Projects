@@ -1,6 +1,10 @@
 # 电信诈骗预测
 ![图片](./picture/1.jpg)
+
+项目地址：https://github.com/Kian716/Risk_Management_Projects/tree/main/telecom_fraud_detection
+
 ## 1 问题分析
+
 - 目标：利用个人基本信息和通话特征，预测用户是否为电信欺诈用户
 
 - 任务类型：有监督的二分类任务
